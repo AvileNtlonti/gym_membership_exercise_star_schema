@@ -1,0 +1,1 @@
+# gym_membership_exercise_star_schema
